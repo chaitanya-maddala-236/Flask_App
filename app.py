@@ -5,6 +5,8 @@ app=Flask(__name__)
 def admin():
     return  'this is amdin '
 
+#hello i am here
+
 @app.route('/teacher')
 def admin():
     return  'this is amdin '
